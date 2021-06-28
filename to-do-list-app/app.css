@@ -1,0 +1,27 @@
+html{
+    text-align: center;
+}
+body {
+    background: linear-gradient(90deg, #161122 21px, transparent 1%) center, linear-gradient(#161122 21px, transparent 1%) center, #a799cc;
+    background-size: 22px 22px;
+}
+span {
+    column-rule: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 125%;
+}
+.welcome{
+    color: whitesmoke;
+    font-size: 225%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+.login{
+    color: whitesmoke;
+    font-size: 120%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.inp{
+    border-radius: 10%;
+}
